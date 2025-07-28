@@ -1,0 +1,6 @@
+.divider {
+    border-left: 3px solid #ddd; /* Adjust color as needed */
+    height: auto; /* Adjust based on your requirement */
+    margin: 0 15px; /* Adjust spacing around the divider */
+    width: 10px;
+}

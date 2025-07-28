@@ -1,0 +1,9 @@
+   # IDE files
+   .idea/
+   *.iml
+
+   # Dependencies
+   node_modules/
+
+   # Optional: package-lock files (team decision)
+   package-lock.json
